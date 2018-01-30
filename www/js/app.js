@@ -12,7 +12,7 @@ window.addEventListener('load', function() {
             controller: 'inici'
         }
 	   , 
-        musica: {
+        música: {
             url: '/música',
             template: 'views/inici.html',
             controller: 'inici'
