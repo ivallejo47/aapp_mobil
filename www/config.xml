@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.SERGICURTU2018"
+        id          = "cat.numancia.Ivallejo2018"
         versionCode = "01" 
         version     = "0.0.01" >
 	
@@ -13,11 +13,11 @@
     <name>Reproductor MP3</name>
 
    <description>
-       Reproductor de música , Alumne 4t A,B,C. 2017 - 2018.
+       Reproductor de música , Ivan Vallejo 4tC. 2017 - 2018.
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="ivallejo47@iesnumancia.cat">
+       Ivan Vallejo
     </author>
 
 	<content src="index.html"/>
