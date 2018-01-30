@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.Ivallejo2018"
+        id          = "cat.numancia.IvanVallejo2018"
         versionCode = "01" 
         version     = "0.0.01" >
 	
